@@ -1,0 +1,5 @@
+Since beginning my career transition in 2020, I have learned various skills critical for modern day web development. Over the past year, I have built web applications for various projects. I have been responsible for front end development, not only in charge of aesthetic and responsiveness, but also state management, passing and displaying data from API. For backend, I have experience in designing database schema, utilized relational database such as PostgresQL, and built RESTful APIs.
+
+Before this career transition, my background had always been in customer service and business development. I had gained valuable skills such as communication, problem solving, and adaptability. These skills have translated very well into the world of tech, not only in creating applications, but also collaboration with others.
+
+My current goal is to acquire a position as a software developer. Below are skills I have mastered, and am continuing to improve upon further.
